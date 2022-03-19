@@ -30,8 +30,8 @@
 
 # Previews
 
-![all radials](![image](https://user-images.githubusercontent.com/95599217/159109626-bfbf6803-feb6-47f2-90d9-f6df7e381493.png))
+![all radials](https://i.imgur.com/S2IxE9c.png)
 
-![in vehicle](![image](https://user-images.githubusercontent.com/95599217/159109663-4c0f60c7-ddb5-4e8a-b720-cad37aa197f8.png)))
+![in vehicle](https://imgur.com/LtYEnFd)
 
 

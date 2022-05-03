@@ -1,5 +1,5 @@
 
-### This is an edited version of the already released QB-Hud: https://github.com/qbcore-framework/qb-hud; I do not take credit for anything except the edited radials for the hud.  -- dnelyk
+### This is an edited version of the already released QB-Hud: https://github.com/qbcore-framework/qb-hud; I do not take credit for anything except the edited radials for the hud.  - dnelyk
 
 
 # Things you should know:
